@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Do it for the vine
 
 docker-compose --help >/dev/null
 COMPOSE=$?
